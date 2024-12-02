@@ -1,2 +1,2 @@
-# adventofcode-2024
-Repo for my Advent of Code for 2024
+# Advent of Code 2024
+Repo for my AoC 2024 solutions.
